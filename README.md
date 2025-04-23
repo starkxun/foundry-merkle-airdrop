@@ -27,9 +27,6 @@ $ forge build
 $ forge test
 ```
 
-### Format
-
-
 ### Gas Snapshots
 
 ```shell
